@@ -1,10 +1,12 @@
 import ConfigurationWebDriver.BaseClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
+
 
 public class TestHomeWork extends BaseClass {
     public static void main(String[] args) throws InterruptedException {
@@ -32,6 +34,7 @@ public class TestHomeWork extends BaseClass {
 
         Thread.sleep(10000);
         driver.quit();
+
 
     }
 }

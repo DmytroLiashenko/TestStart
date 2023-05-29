@@ -16,6 +16,7 @@ public class ConfigurationWebDriver {
 //                createChromeIncognito();
         }
         return driver;
+
     }
 
     private static void createChrome() {
