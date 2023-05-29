@@ -1,12 +1,10 @@
 import ConfigurationWebDriver.BaseClass;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
-
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
-
 
 public class TestHomeWork extends BaseClass {
     public static void main(String[] args) throws InterruptedException {
@@ -27,14 +25,12 @@ public class TestHomeWork extends BaseClass {
         driver.findElement(By.id("listbox-btn-input-course-consultation")).click();
         driver.findElement(By.xpath("//*[@id=\"container-input-course-consultation\"]/div/ul/li[19]")).click();
 
+        driver.findElement(By.xpath("//*[@id=\"form-consultation\"]/div[1]/footer/div[1]/label/span")).click();
 
-        driver.findElement(By.xpath("//*[@id=\"form-consultation\"]/div[1]/footer/div[1]/label/p/a")).click();
-        Thread.sleep(2000);
 
 
         Thread.sleep(10000);
         driver.quit();
-
 
     }
 }
