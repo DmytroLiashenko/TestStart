@@ -4,6 +4,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
+import java.time.Duration;
+
 public class ConfigurationWebDriver {
     static WebDriver driver = null;
 
@@ -12,8 +14,10 @@ public class ConfigurationWebDriver {
         switch (webDrivers) {
             case CHROME:
                 createChrome();
+                break;
 //            case CHROME_INCOGNITO:
 //                createChromeIncognito();
+//            break;
         }
         return driver;
 
@@ -24,6 +28,7 @@ public class ConfigurationWebDriver {
         options.addArguments("--remote-allow-origins=*");
         options.addArguments("--start-maximize");
         driver = new ChromeDriver(options);
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 
     }
 //    private static void createChromeIncognito() {

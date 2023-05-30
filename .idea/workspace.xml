@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8f3db1b6-1d73-4d3a-93ad-ee116b98eb8b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/ConfigurationWebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/ConfigurationWebDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/WebDrivers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/WebDrivers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/TestHomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestHomeWork.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685379540237</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HomeWork11">
+      <created>1685463259805</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685463259805</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
