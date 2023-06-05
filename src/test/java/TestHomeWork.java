@@ -46,7 +46,7 @@ public class TestHomeWork extends BaseClass {
 
 
 
-     //   Thread.sleep(10000);
+       Thread.sleep(10000);
         driver.quit();
 
     }

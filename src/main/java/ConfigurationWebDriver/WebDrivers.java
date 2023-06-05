@@ -1,5 +1,5 @@
 package ConfigurationWebDriver;
 
 public enum WebDrivers {
-    CHROME,CHROME_INCOGNITO;
+    CHROME;//CHROME_INCOGNITO;
 }
