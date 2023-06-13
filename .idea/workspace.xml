@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f3db1b6-1d73-4d3a-93ad-ee116b98eb8b" name="Changes" comment="HomeWork11">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/TestBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/util/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test2HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/homeTest.java" afterDir="false" />
+    <list default="true" id="8f3db1b6-1d73-4d3a-93ad-ee116b98eb8b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/HillelURLs/HillelUrls.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MainPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Test3HomeWork.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/WebDrivers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ConfigurationWebDriver/WebDrivers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestHomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestHomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test2HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test2HomeWork.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +49,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/work/lessons",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.Test2HomeWork">
+  <component name="RunManager" selected="JUnit.Test3HomeWork">
     <configuration name="TestHomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestHomeWork" />
       <module name="WebDriverHillel" />
@@ -85,32 +83,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2HomeWork.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test3HomeWork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WebDriverHillel" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Test2HomeWork" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="Test3HomeWork" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test3HomeWork.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="WebDriverHillel" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="homeTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="Test3HomeWork" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Test3HomeWork" />
+        <item itemvalue="JUnit.Test3HomeWork.test3" />
         <item itemvalue="JUnit.Test2HomeWork" />
-        <item itemvalue="JUnit.Test2HomeWork.test" />
-        <item itemvalue="JUnit.Test2HomeWork.test2" />
         <item itemvalue="Application.TestHomeWork" />
-        <item itemvalue="JUnit.homeTest" />
+        <item itemvalue="JUnit.Test2HomeWork.test" />
       </list>
     </recent_temporary>
   </component>
@@ -165,11 +163,19 @@
       <option name="project" value="LOCAL" />
       <updated>1685472288504</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HomeWork12">
+      <created>1685965711465</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1685965711465</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HomeWork11" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork11" />
+    <MESSAGE value="HomeWork12" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork12" />
   </component>
 </project>

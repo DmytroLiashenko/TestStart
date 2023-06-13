@@ -17,7 +17,7 @@ public class Util {
                 driver.findElement(by);
                 bool = true;
             } catch (Exception ignore) {
-                js.executeScript("window.scrollBy(0,770)");
+                js.executeScript("window.scrollBy(0,790)");
 
             }
         }
