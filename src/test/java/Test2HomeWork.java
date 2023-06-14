@@ -7,6 +7,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import util.Util;
+
 import java.util.List;
 
 public class Test2HomeWork extends BaseClass {
@@ -15,6 +16,7 @@ public class Test2HomeWork extends BaseClass {
     By category = By.xpath("//*[@data-category=\"programming\"]");
     By button = By.xpath("//*[@data-value=\"front-end\"]");
     By coach = By.id("coachesShowAllButton");
+
 
     @BeforeClass
     public static void bFirstTest() {
@@ -27,6 +29,7 @@ public class Test2HomeWork extends BaseClass {
         driver.findElement(category).click();
         driver.findElement(button).click();
         driver.get("https://kyiv.ithillel.ua/courses/front-end-basic");
+
     }
 
     @Test

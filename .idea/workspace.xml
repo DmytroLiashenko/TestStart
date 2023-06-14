@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8f3db1b6-1d73-4d3a-93ad-ee116b98eb8b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HillelURLs/HillelUrls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pages/MainPageObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test3HomeWork.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/MainPageObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/MainPageObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Test2HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test2HomeWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Test3HomeWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Test3HomeWork.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +54,7 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.Test3HomeWork">
+  <component name="RunManager" selected="JUnit.Test3HomeWork.test3">
     <configuration name="TestHomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestHomeWork" />
       <module name="WebDriverHillel" />
@@ -104,8 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test3HomeWork" />
         <item itemvalue="JUnit.Test3HomeWork.test3" />
+        <item itemvalue="JUnit.Test3HomeWork" />
         <item itemvalue="JUnit.Test2HomeWork" />
         <item itemvalue="Application.TestHomeWork" />
         <item itemvalue="JUnit.Test2HomeWork.test" />
@@ -170,12 +168,20 @@
       <option name="project" value="LOCAL" />
       <updated>1685965711465</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HomeWork13">
+      <created>1686653239510</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686653239510</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="HomeWork11" />
     <MESSAGE value="HomeWork12" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWork12" />
+    <MESSAGE value="HomeWork13" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWork13" />
   </component>
 </project>
